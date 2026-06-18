@@ -3,12 +3,12 @@
     <channel>
         <title>Vocal8</title>
         <item>
-            <title>0.1.8</title>
-            <pubDate>Thu, 18 Jun 2026 16:38:51 +0100</pubDate>
-            <sparkle:version>1781797086</sparkle:version>
-            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <title>0.1.9</title>
+            <pubDate>Thu, 18 Jun 2026 17:21:47 +0100</pubDate>
+            <sparkle:version>1781799670</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Dukeio/vocal8-releases/releases/download/v0.1.8/Vocal8-0.1.8.dmg" length="4577868" type="application/octet-stream" sparkle:edSignature="3wAWTzTsh7BrKPZcGU2oYYSWfCDZQllEWs8i3I2BfA/ZF0GL66lWmTHiO0wKGfi/1UjXC6tl4DCs5JLtwtnICg=="/>
+            <enclosure url="https://github.com/Dukeio/vocal8-releases/releases/download/v0.1.9/Vocal8-0.1.9.dmg" length="4580368" type="application/octet-stream" sparkle:edSignature="/ptVltpZlS0LR1Kd13W/jNyoktsvg5dJc+uVTuKlqqnxM2tqj+yMtCUYSWzoF0GH2dwXtS68ya4a72jeRk+iCw=="/>
         </item>
     </channel>
 </rss>

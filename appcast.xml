@@ -4,11 +4,11 @@
         <title>Vocal8</title>
         <item>
             <title>0.1.10</title>
-            <pubDate>Sat, 04 Jul 2026 17:58:35 +0100</pubDate>
-            <sparkle:version>1783184276</sparkle:version>
+            <pubDate>Thu, 16 Jul 2026 11:51:54 +0100</pubDate>
+            <sparkle:version>1784199084</sparkle:version>
             <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Dukeio/vocal8-releases/releases/download/v0.1.10/Vocal8-0.1.10.dmg" length="4618186" type="application/octet-stream" sparkle:edSignature="QU6DscD9mYcJ80rGOY2HiEK3sdQgtEXUzvartmlGmUZLBMYI2IPVWUmPveega127FO+PMgm4w4aqrMNNq1QQCg=="/>
+            <enclosure url="https://github.com/Dukeio/vocal8-releases/releases/download/v0.1.10/Vocal8-0.1.10.dmg" length="4519465" type="application/octet-stream" sparkle:edSignature="BIKxxGkyMU+vUPMn7FXKIQ2DfNs/z8r3LFD5wyeERC0YK2sNP1uDo1jLAhmz8ikfF7c5Xr5iqS8P5hlEMHkZCQ=="/>
         </item>
     </channel>
 </rss>
